@@ -9,19 +9,15 @@
 - 💬 Ask me about Front End Development
 - 😄 Pronouns: he/him 
 
-👨🏼‍💻 building [BinaryWarriors] \
+👨🏼‍💻 building [BinaryWarriors](https://binarywarriors.co/)
 🧠 learning Django and vuejs \
 💜 loving react, gatsby, fullstack, and AI
 
 
 
-🏡 [website] [website] **|** \
-📺 [youtube] [youtube] **|** \ 
-📷 [instagram] [instagram] **|** \ 
-👔 [linkedin] [linkedin] **|**
+🏡 [website](https://elmoustaphahoueibib.github.io)    
+📺 [youtube](https://www.youtube.com/channel/UCGwhzs5AdUbvEkZCC359kIQ)  
+📷 [instagram](https://www.instagram.com/houeibibelmoustapha/)  
+👔 [linkedin](https://www.linkedin.com/in/elmoustapha-houeibib-16665014a/)  
 
-[BinaryWarriors]: https://binarywarriors.co \
-[website]: https://elmoustaphahoueibib.github.io \
-[youtube]: https://www.youtube.com/channel/UCGwhzs5AdUbvEkZCC359kIQ \
-[instagram]: https://www.instagram.com/houeibibelmoustapha/ \
-[linkedin]: https://www.linkedin.com/in/elmoustapha-houeibib-16665014a/ 
+
