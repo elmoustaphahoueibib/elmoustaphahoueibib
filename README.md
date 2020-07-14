@@ -15,9 +15,9 @@
 
 
 
-🏡 [website] 
-📺 [youtube]   
-📷 [instagram]  
+🏡 [website] \
+📺 [youtube]  \ 
+📷 [instagram] \ 
 👔 [linkedin]  
 
 [BinaryWarriors]: https://binarywarriors.co \
