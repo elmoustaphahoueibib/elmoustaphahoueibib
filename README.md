@@ -9,8 +9,8 @@
 - 💬 Ask me about Front End Development
 - 😄 Pronouns: he/him 
 
-👨🏼‍💻 building [BinaryWarriors](https://binarywarriors.co/)
-🧠 learning Django and vuejs \
+👨🏼‍💻 building [BinaryWarriors](https://binarywarriors.co/)  
+🧠 learning Django and vuejs   
 💜 loving react, gatsby, fullstack, and AI
 
 
