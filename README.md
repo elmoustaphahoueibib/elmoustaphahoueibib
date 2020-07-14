@@ -15,10 +15,10 @@
 
 
 
-🏡 [website] [website] **|**
+🏡 [website] **|**
 📺 [youtube]  **|** 
-📷 [instagram] [instagram] **|** 
-👔 [linkedin] [linkedin] **|**
+📷 [instagram] **|** 
+👔 [linkedin] **|**
 
 [BinaryWarriors]: https://binarywarriors.co
 [webiste]: https://elmoustaphahoueibib.github.io
