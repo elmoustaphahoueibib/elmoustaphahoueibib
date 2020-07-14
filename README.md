@@ -21,7 +21,7 @@
 👔 [linkedin] **|**
 
 [BinaryWarriors]: https://binarywarriors.co
-[webiste]: https://elmoustaphahoueibib.github.io
+[website]: https://elmoustaphahoueibib.github.io
 [youtube]: https://www.youtube.com/channel/UCGwhzs5AdUbvEkZCC359kIQ
 [instagram]: https://www.instagram.com/houeibibelmoustapha/
 [linkedin]: https://www.linkedin.com/in/elmoustapha-houeibib-16665014a/
