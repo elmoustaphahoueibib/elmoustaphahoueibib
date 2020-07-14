@@ -8,3 +8,19 @@
 - 🤔 I’m looking for help with any opensource project
 - 💬 Ask me about Front End Development
 - 😄 Pronouns: he/him 
+
+👨🏼‍💻 building BinaryWarriors
+🧠 learning Django and vuejs
+💜 loving react, gatsby, fullstack, and AI
+
+
+
+🏡 [website] [website] **|**
+📺 [youtube] [youtube] **|** 
+📷 [instagram] [instagram] **|** 
+👔 [linkedin] [linkedin] **|**
+
+[webiste]: https://elmoustaphahoueibib.github.io
+[youtube]: https://www.youtube.com/channel/UCGwhzs5AdUbvEkZCC359kIQ
+[instagram]: https://www.instagram.com/houeibibelmoustapha/
+[linkedin]: https://www.linkedin.com/in/elmoustapha-houeibib-16665014a/
