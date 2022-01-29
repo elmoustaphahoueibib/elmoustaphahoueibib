@@ -1,5 +1,7 @@
 ### Hi there I'm Elmoustapha 👋
 
+# ![elmoustaphahoueibib](https://github.com/elmoustaphahoueibib/elmoustaphahoueibib/blob/master/gitkrakenambassador.png)
+
 # ![elmoustaphahoueibib](https://github.com/elmoustaphahoueibib/elmoustaphahoueibib/blob/master/Developer%20.png)
 
 - 🔭 I’m currently working on Laravel
@@ -8,6 +10,8 @@
 - 🤔 I’m looking for help with any opensource project
 - 💬 Ask me about Front End Development
 - 😄 Pronouns: he/him 
+- Auth0 Ambassador
+- @gitkraken
 
   👨🏼‍💻 building [BinaryWarriors](https://binarywarriors.co/)  
   🧠 learning Django and vuejs   
